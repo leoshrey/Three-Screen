@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "629726592340",
+    "firebase_url": "https://three-screens-98134.firebaseio.com",
+    "project_id": "three-screens-98134",
+    "storage_bucket": "three-screens-98134.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629726592340:android:5d44088ba247497f569cc1",
+        "android_client_info": {
+          "package_name": "com.leoshrey.threescreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629726592340-f57qrf5epm2m78nvrr8iji7meipcma47.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzMhSNCeUwTvdEf_fCjrYZYUZ9ihNSbek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629726592340-f57qrf5epm2m78nvrr8iji7meipcma47.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
