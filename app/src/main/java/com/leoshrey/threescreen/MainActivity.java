@@ -43,7 +43,8 @@ public class MainActivity extends AppCompatActivity {
             String data = intent.getStringExtra("data");
             if (data != null) {
                 Fragment fragment = new Screen2Messages();
-                startActivityFromFragment(fragment, intent, -1);
+                // TODO Forward the intent to open respective pages based on data
+                //startActivityFromFragment(fragment, intent, -1);
             }
         }
     }
